@@ -1,0 +1,6 @@
+{
+  "name": "Personal Store Management",
+  "description": "হার্ডওয়্যার, ইলেকট্রিক্যাল ও নির্মাণসামগ্রীর দোকান ম্যানেজমেন্ট এবং কাস্টমার বাকি-লেনদেন হিসাবের সম্পূর্ণ ওয়েব অ্যাপ্লিকেশন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
